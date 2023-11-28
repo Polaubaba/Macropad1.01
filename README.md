@@ -24,6 +24,11 @@ I haven't used any resistor to protect those Leds. So with time I may improve th
 
 ps: Be sure to not to burn the board while using soldering iron :( 
 
+# 🧑‍💻 Code Used In The project
+
+Check the Project File for Codes
+
+
 # 📽️ Video Description of The Project
 Watch My video On YouTube : https://youtu.be/WfxP-SMKctc?si=3v0lH9Nkp7Te1b7X 
 
