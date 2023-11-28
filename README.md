@@ -25,7 +25,10 @@ I haven't used any resistor to protect those Leds. So with time I may improve th
 ps: Be sure to not to burn the board while using soldering iron :( 
 
 # 🧑‍💻 Code Used In The project
+Primarily the pico board runs on Circuit Python
+The Whole code for this project is written on Circuit Python. 
 
+I have used ChatGPT3.5 for some proportion of the code.
 Check the Project File for Codes
 
 
