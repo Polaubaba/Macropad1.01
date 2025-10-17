@@ -7,6 +7,8 @@ Circuit Board Design is provided in the PCB folder. You can use mine as a refere
 This is my first Circuit Board Design, So it is not perfect. 
 I haven't used any resistor to protect those Leds. So with time I may improve the project if necessary
 
+Update ( 17.10.2025 ) : I am starting work on a newer similar project hahaha, I am dumb
+
 
 # 💀 items used
 
