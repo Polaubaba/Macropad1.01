@@ -1,5 +1,5 @@
 # Macropad1.01
-A copy-pasta macropad design and some other stuff. 
+A simple macropad design and added features to it.
 
 
 # ⚡Circuit Board
